@@ -7,13 +7,13 @@
 - 📌 Living in <b>Brasília</b>, Brazil.
 - 🎓 Mechatronics Engineering student at [Universidade de Brasília](https://www.unb.br/).
 - 🔭 I'm currently working with
-  - ##### <img height="12" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> Node
-  - ##### <img height="12" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> TypeScript
-  - ##### <img height="12" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> React
+  - <img height="12" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> Node
+  - <img height="12" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> TypeScript
+  - <img height="12" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> React
 - 🌱 I'm currently learning
-  - ##### Clean Architecture
-  - ##### Design Patterns
-  - ##### SOLID
+  - Clean Architecture
+  - Design Patterns
+  - SOLID
 - 📫 How to reach me:
   - [Linkedin](https://www.linkedin.com/in/msantosalves/)
 
