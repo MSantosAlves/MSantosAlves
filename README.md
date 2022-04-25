@@ -1,7 +1,7 @@
 <h1><b>Matheus Alves</b></h1>
 
 <h2><b>Hello world!</b> 👋</h2> 
-<h4><b>I'm Matheus Alves, a full stack developer from Brazil.<b><h4>
+<h4><b>I'm Matheus Alves, a brazilian developer.<b><h4>
 <h3><b>About me</b></h3>
 
 - 📌 Living in <b>Brasília</b>, Brazil.
