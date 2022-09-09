@@ -14,8 +14,6 @@
   - Clean Architecture
   - Design Patterns
   - SOLID
-- 📫 How to reach me:
-  - [Linkedin](https://www.linkedin.com/in/msantosalves/)
 
 <h3><b>Languages and Tools:</b></h3>
 <br/>
